@@ -1,2 +1,2 @@
 # ReactTest
-This is for demo
+This is for demo purpose.
